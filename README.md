@@ -1,3 +1,10 @@
+## INFO
+- # WEB Info
+- https://console.firebase.google.com/
+- https://sweetalert2.github.io/ (plugins TypesScript)
+- # Comandos
+- ng g guard guards/auth -> [CanActivate]
+
 # PlusLoginApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
